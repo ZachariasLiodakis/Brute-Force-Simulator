@@ -1,3 +1,4 @@
+![Brute Force Attack Simulator](BruteForceSimulator.png)
 # Brute Force Attack Simulator
 
 A simple Java program that simulates a brute force attack to crack a hashed password using SHA-256.  
