@@ -1,5 +1,19 @@
-![Brute Force Attack Simulator](BruteForceSimulator.png)
-# Brute Force Attack Simulator
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img src="BruteForceSimulator.png" alt="Brute Force Attack Simulator" height="150" />
+    </td>
+    <td style="vertical-align: middle;">
+      <h2 style="font-size: 0em; margin: 0;">Brute Force Attack Simulator</h2>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+# 
 
 A simple Java program that simulates a brute force attack to crack a hashed password using SHA-256.  
 It tries all possible combinations of characters up to a specified maximum length and reports the cracked password (if found), the number of attempts, and the time taken.
